@@ -1,0 +1,237 @@
+
+**************  SQL QUİZ  ***************
+
+1. SQL ne anlama geliyor?
+a) Structured Query Language
+b) Sequential Query Language
+c) Simple Query Language
+d) Solid Quality Language
+
+2. SQL'de "CRUD" kısaltması ne anlama gelir?
+a) Create, Read, Update, Delete
+b) Columns, Rows, Update, Drop
+c) Concatenate, Retrieve, Union, Drop
+d) Copy, Run, Update, Display
+
+3. Veritabanından veri almak için hangi SQL komutu kullanılır?
+a) SEARCH
+b) RETRIEVE
+c) SELECT
+d) FIND
+
+4. SQL'de WHERE cümlesinin amacı nedir?
+a) Alınacak sütunları belirtir.
+b) SELECT ifadesinin döndürdüğü satırları filtreler.
+c) Sonuçları artan veya azalan sırada sıralar.
+d) Yeni bir tablo oluşturur.
+
+5. SQL'deki ORDER BY cümlesinin amacı nedir?
+a) SELECT ifadesinin döndürdüğü satırları filtreler.
+b) Alınacak sütunları belirtir.
+c) Yeni bir tablo oluşturur.
+d) Sonuçları artan veya azalan sırada sıralar.
+
+6. Veritabanı tablosuna yeni veri eklemek için hangi SQL komutu kullanılır?
+a) ADD
+b) INSERT
+c) CREATE
+d) UPDATE
+
+7. SQL'de "DDL" kısaltması ne anlama gelir?
+a) Data Definition Language
+b) Data Deletion Language
+c) Data Display Language
+d) Data Description Language
+
+8. Bir veritabanı tablosundaki mevcut verileri güncellemek için hangi SQL komutu kullanılır?
+a) MODIFY
+b) ALTER
+c) UPDATE
+d) CHANGE
+
+9. SQL'deki GROUP BY deyiminin amacı nedir?
+a) SELECT ifadesinin döndürdüğü satırları filtreler.
+b) Aynı değerlere sahip satırları özet satırları halinde gruplandırır.
+c) Sonuçları artan veya azalan sırada sıralar.
+d) Alınacak sütunları belirtir.
+
+10. SQL'de HAVING cümlesinin amacı nedir?
+a) Sonuçları artan veya azalan sırada sıralar.
+b) SELECT ifadesinin döndürdüğü satırları filtreler.
+c) Alınacak sütunları belirtir.
+d) GROUP BY cümleciği tarafından oluşturulan özet satırlarını filtreler.
+
+11. SQL'de DISTINCT anahtar sözcüğünün amacı nedir?
+a) SELECT ifadesinin döndürdüğü satırları filtreler.
+b) Alınacak sütunları belirtir.
+c) Sonuç kümesinden yinelenen satırları kaldırır.
+d) Sonuçları artan veya azalan sırada sıralar.
+
+12. SQL'deki JOIN cümlesinin amacı nedir?
+a) SELECT ifadesinin döndürdüğü satırları filtreler.
+b) Alınacak sütunları belirtir.
+c) İlgili sütuna göre iki veya daha fazla tablonun satırlarını birleştirir.
+d) Sonuçları artan veya azalan sırada sıralar.
+
+13. Bir veritabanı tablosundan veri silmek için hangi SQL komutu kullanılır?
+a) TRUNCATE
+b) DROP
+c) REMOVE
+d) DELETE
+
+14. SQL'de LIMIT deyiminin amacı nedir?
+a) SELECT ifadesinin döndürdüğü satırları filtreler.
+b) Sonuçları artan veya azalan sırada sıralar.
+c) Aynı değerlere sahip satırları özet satırlar halinde gruplandırır.
+d) SELECT ifadesinin döndürdüğü satır sayısını sınırlar.
+
+15. SQL'de BETWEEN operatörünün amacı nedir?
+a) SELECT ifadesinin döndürdüğü satırları filtreler.
+b) Belirtilen değerler listesinde bir değerin var olup olmadığını kontrol eder.
+c) Bir değerin belirlenen aralıkta olup olmadığını kontrol eder.
+d) Bir dize üzerinde kalıp eşleşmesi gerçekleştirir.
+
+16. SQL'de LIKE operatörünün amacı nedir?
+a) Belirtilen değerler listesinde bir değerin var olup olmadığını kontrol eder.
+b) SELECT ifadesinin döndürdüğü satırları filtreler.
+c) Bir dize üzerinde kalıp eşleşmesi gerçekleştirir.
+d) Bir değerin belirlenen aralıkta olup olmadığını kontrol eder.
+
+17. SQL'de COUNT fonksiyonu ne işe yarar?
+a) Bir tablodaki toplam satır sayısını sayar.
+b) Bir sütunun ortalama değerini hesaplar.
+c) Bir sütundaki maksimum değeri alır.
+d) Bir sütundaki boş olmayan değerlerin sayısını sayar.
+
+18. SQL'de SUM işlevi ne işe yarar?
+a) Bir sütundaki maksimum değeri alır.
+b) Bir sütunun ortalama değerini hesaplar.
+c) Bir tablodaki toplam satır sayısını sayar.
+d) Bir sütundaki değerlerin toplamını hesaplar.
+
+19. AVG işlevi SQL'de ne yapar?
+a) Bir sütundaki değerlerin toplamını hesaplar.
+b) Bir tablodaki toplam satır sayısını sayar.
+c) Bir sütundaki maksimum değeri alır.
+d) Bir sütunun ortalama değerini hesaplar.
+
+20. SQL'de MAX işlevi ne işe yarar?
+a) Bir sütundaki değerlerin toplamını hesaplar.
+b) Bir tablodaki toplam satır sayısını sayar.
+c) Bir sütundaki minimum değeri alır.
+d) Bir sütundaki maksimum değeri alır.
+
+21. SQL'de MIN işlevi ne işe yarar?
+a) Bir sütundaki maksimum değeri alır.
+b) Bir sütundaki değerlerin toplamını hesaplar.
+c) Bir sütunun ortalama değerini hesaplar.
+d) Bir sütundaki minimum değeri alır.
+
+22. SQL'de NULL değerinin amacı nedir?
+a) Boş bir dizeyi temsil eder.
+b) Eksik veya bilinmeyen bir değeri temsil eder.
+c) Birincil anahtarın yokluğunu temsil eder.
+d) Sıfır değerini temsil eder.
+
+23. SQL'de UNION operatörünün amacı nedir?
+a) İki veya daha fazla SELECT ifadesinin sonuçlarını birleştirir.
+b) Bir dize üzerinde kalıp eşleşmesi gerçekleştirir.
+c) Bir sütundaki maksimum değeri alır.
+d) SELECT ifadesinin döndürdüğü satırları filtreler.
+
+24. SQL'de INNER JOIN'in amacı nedir?
+a) Bir sütundaki maksimum değeri alır.
+b) İlgili sütuna göre iki veya daha fazla tablonun satırlarını birleştirir.
+c) SELECT ifadesinin döndürdüğü satırları filtreler.
+d) Bir dize üzerinde kalıp eşleşmesi gerçekleştirir.
+
+25. SQL'de LEFT JOIN'in amacı nedir?
+a) İlgili sütuna göre iki veya daha fazla tablonun satırlarını birleştirir.
+b) Bir sütundaki maksimum değeri alır.
+c) SELECT ifadesinin döndürdüğü satırları filtreler.
+d) Bir dize üzerinde kalıp eşleşmesi gerçekleştirir.
+
+26. İki tablo arasında ilişki oluşturmak için aşağıdakilerden hangisi kullanılabilir?
+a) FOREIGN KEY
+b) DISTINCT KEY
+c) PRIMARY KEY
+d) UNIQUE KEY
+
+27. Tablonun her satırını benzersiz şekilde tanımlamak için aşağıdakilerden hangisi kullanılabilir?
+a) FOREIGN KEY
+b) DISTINCT KEY
+c) PRIMARY KEY
+d) UNIQUE KEY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CEVAP ANAHTARI:
+1) a) SQL, Yapılandırılmış Sorgu Dili anlamına gelir . Veritabanlarını yönetmek ve değiştirmek için standart bir dildir.
+2) a) Create, Read, Update, Delete  - CRUD, bir veritabanındaki veriler üzerinde gerçekleştirilebilecek dört temel işlemi temsil eden bir kısaltmadır.
+      Oluştur (INSERT), Oku (SELECT), Güncelle (UPDATE) ve Sil (DELETE) anlamına gelir.
+3) c) Select - SELECT ifadesi bir veritabanından veri almak için kullanılır.
+      Almak istediğiniz sütunları ve verilerin karşılaması gereken koşulları belirtmenize olanak tanır.
+4) b) Select ifadesinin döndürdüğü satırları filtreler. WHERE deyimi , SELECT deyiminin döndürdüğü satırları belirtilen koşullara göre filtrelemek için kullanılır.
+      Yalnızca belirtilen kriterleri karşılayan verileri almanızı sağlar.
+5) d) Sonuçları artan veya azalan sırada sıralar.
+      ORDER BY deyimi, bir SELECT ifadesinin sonuçlarını bir veya daha fazla sütuna göre artan veya azalan sırada sıralamak için kullanılır.
+6) b) Insert - INSERT deyimi tabloya yeni veri eklemek için kullanılır . Bir veritabanı tablosuna bir veya daha fazla satır eklemenizi sağlar.
+7) a) DDL - DDL, Veri Tanımlama Dili anlamına gelir . Tablo oluşturmak ve değiştirmek gibi bir veritabanının yapısını tanımlamak, yönetmek ve değiştirmek için kullanılır.
+8) c) Update - UPDATE ifadesi , bir veritabanı tablosundaki mevcut verileri değiştirmek için kullanılır. Belirli bir satır veya satır kümesindeki bir veya daha fazla sütunun değerlerini değiştirmenize olanak tanır.
+9) b) Aynı değerlere sahip satırları özet satırları halinde gruplandırır.
+      GROUP BY deyimi, bir veya daha fazla sütundaki aynı değerlere sahip satırları özet satırları halinde gruplamak için kullanılır. Her grubun özet değerlerini hesaplamak için genellikle SUM veya COUNT gibi toplama işlevleriyle birlikte kullanılır.
+
+10) d) GROUP BY cümleciği tarafından oluşturulan özet satırlarını filtreler.
+       HAVING yan tümcesi, GROUP BY yan tümcesi tarafından belirtilen koşullara göre oluşturulan özet satırlarını filtrelemek için kullanılır. WHERE yan tümcesine benzer ancak toplama işlevleriyle birlikte kullanılır.
+11) c) Sonuç kümesinden yinelenen satırları kaldırır.
+       DISTINCT anahtar sözcüğü, SELECT ifadesinin sonuç kümesinden yinelenen satırları kaldırmak için kullanılır . Çıktıya yalnızca benzersiz satırların dahil edilmesini sağlar.
+12) c) İlgili sütuna göre iki veya daha fazla tablonun satırlarını birleştirir.
+       JOIN cümlesi, ilgili sütuna dayalı olarak iki veya daha fazla tablodaki satırları birleştirmek için kullanılır. Tek bir sorguda birden fazla tablodan veri almanızı sağlar.
+13) d) Delete - DELETE ifadesi bir veritabanı tablosundaki satırları silmek için kullanılır. Belirli bir koşulu karşılayan bir veya daha fazla satırı kaldırmanıza olanak tanır.
+14) d) SELECT ifadesinin döndürdüğü satır sayısını sınırlar. -
+       LIMIT deyimi, SELECT deyiminin döndürdüğü satır sayısını belirli bir sayı veya aralıkla sınırlamak için kullanılır  .
+15) c) Bir değerin belirlenen aralıkta olup olmadığını kontrol eder. -
+       BETWEEN operatörü , bir değerin uç noktalar da dahil olmak üzere belirli bir değer aralığına girip girmediğini kontrol etmek için kullanılır.
+16) c) Bir dize üzerinde kalıp eşleşmesi gerçekleştirir. -
+       LIKE operatörü SQL'de kalıp eşleştirme için kullanılır. % ve _ gibi joker karakterleri içeren kalıplara göre dizeleri eşleştirmenize olanak tanır.
+17) a) Bir tablodaki toplam satır sayısını sayar. -
+       SQL'deki COUNT işlevi , bir tablodaki toplam satır sayısını saymak için kullanılır.
+       Ayrıca her gruptaki satır sayısını saymak için GROUP BY deyimiyle birlikte de kullanılabilir.
+18) d) Bir sütundaki değerlerin toplamını hesaplar. -
+       SQL'deki SUM işlevi , bir sütundaki sayısal değerlerin toplamını hesaplamak için kullanılır.
+19) d) Bir sütunun ortalama değerini hesaplar. -
+       SQL'deki AVG işlevi, bir sütundaki sayısal değerlerin ortalama (ortalama) değerini hesaplamak için kullanılır.
+20) d) Bir sütundaki maksimum değeri alır. -
+       SQL'deki MAX işlevi, bir sütundan maksimum değeri almak için kullanılır.
+21) d) Bir sütundaki minimum değeri alır. -
+       SQL'deki MIN işlevi, bir sütundan minimum değeri almak için  kullanılır .
+22) b) Eksik veya bilinmeyen bir değeri temsil eder. -
+       SQL'de NULL değeri eksik veya bilinmeyen bir değeri temsil eder. Boş bir dizeden veya sıfır değerinden farklıdır.
+23) a) İki veya daha fazla SELECT ifadesinin sonuçlarını birleştirir. -
+       SQL'deki UNION operatörü, iki veya daha fazla SELECT ifadesinin sonuçlarını tek bir sonuç kümesinde birleştirmek için kullanılır.
+24) b) İlgili sütuna göre iki veya daha fazla tablonun satırlarını birleştirir. -
+       SQL'deki INNER JOIN, ilgili sütuna dayalı olarak iki veya daha fazla tablodaki satırları birleştirmek için kullanılır .
+       Yalnızca her iki tabloda da eşleşen değerlere sahip satırları döndürür.
+25) a) İlgili sütuna göre iki veya daha fazla tablonun satırlarını birleştirir. -
+       SQL'deki LEFT JOIN, ilgili sütuna dayalı olarak iki veya daha fazla tablodaki satırları birleştirmek için kullanılır.
+       Sol tablodaki tüm satırları ve sağ tablodaki eşleşen satırları döndürür.
+       Eşleşme yoksa sağ tablonun sütunları için NULL değerler döndürülür.
+26) a) FOREIGN KEY - Foreign Key bir tablodaki, başka bir tablodaki PRIMARY KEY'e atıfta bulunan bir alandır (veya alanlar topluluğudur).
+       Yabancı anahtarı içeren tabloya alt tablo, birincil anahtarı içeren tabloya ise başvurulan tablo veya ana tablo adı verilir.
+27) c) Primary Key - SQL'deki PRIMARY KEY, tablonun her satırını benzersiz şekilde tanımlayan bir tablodaki bir sütundur (veya sütunların birleşimidir).
+
+
+
+
+
